@@ -1,4 +1,10 @@
+<<<<<<< Updated upstream
 .rating {
     display: flex;
     flex-wrap: nowrap;
+=======
+.rating {
+    display: flex;
+    flex-wrap: nowrap;
+>>>>>>> Stashed changes
 }
